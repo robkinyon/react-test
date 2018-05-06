@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/robertkinyon/react/hello_world/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/robertkinyon/react/hello_world/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/robertkinyon/react/hello_world/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
